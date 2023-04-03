@@ -1,7 +1,7 @@
 
 # info de la materia: ST0263 Topicos especiales en telematica
 #
-## Estudiante: Stiven Yepes Vanegas, esyepesv@eafit.educo
+## Estudiante: Yhilmar Andres Chaverra Castaño, yachaverrc@eafit.edu.co
 ## Profesor: Edwin Nelson Montoya Munera, emontoya@eafit.edu.co
 
 # Aplicación Monolítica con Balanceo y Datos Distribuidos (BD y archivos)
