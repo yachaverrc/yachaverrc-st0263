@@ -43,19 +43,11 @@ Para este proyecto se utilizo la arquitectura propuesta por el profesor en el en
 ## descripción y como se configura los parámetros del proyecto (ej: ip, puertos, conexión a bases de datos, variables de ambiente, parámetros, etc)
   Los diferentes parámetros se configuran en los archivos de Docker Compose, donde se especifica la dirección IP, los puertos, la conexión a la base de datos, las variables de ambiente, entre otros.
   
-
+![Screenshot_20230403_064914](https://user-images.githubusercontent.com/60229713/229581047-6f51f509-0908-4878-89fa-f55809f6b98b.png)
   
 ## Organización del código por carpetas
 
-  
-
-
-
-## Resultados o pantallazos 
-  
-  
-
-
+![Screenshot_20230403_064855](https://user-images.githubusercontent.com/60229713/229581184-206c6e2a-68ee-481f-9db9-85266d03cf7d.png)
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
@@ -68,14 +60,17 @@ Para este proyecto se utilizo la arquitectura propuesta por el profesor en el en
   - Dominio: No Disponible
 
 ## como se lanza el servidor.
-  PAra la ejecucion de el proyecto en necesario iniciar las maquinas virtuales en Google GCP.
+Para la ejecucion de el proyecto en necesario iniciar las maquinas virtuales en Google GCP.
 
 ## una mini guia de como un usuario utilizaría el software o la aplicación
 Para acceder en este caso solo debes entrar a travez de apuntar a el LB (Load Balancer) y podras acceder al servicio en Wordpress.
 
 ## Resultados o pantallazos 
+  
+![Screenshot_20230403_065849](https://user-images.githubusercontent.com/60229713/229581482-eead2afd-f96e-4190-b636-d6a7ea35933b.png)
 
 
+![Screenshot_20230403_064825](https://user-images.githubusercontent.com/60229713/229581343-5e483848-0dc1-4f0c-8d07-7e1dece7e09e.png)
 
 # referencias:
 Overview of docker compose CLI: https://docs.docker.com/compose/reference/
