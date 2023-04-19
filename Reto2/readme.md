@@ -41,6 +41,5 @@ desde el navegador podemos hacer las peticiones correspondientes:
 ## descripción y como se configura los parámetros del proyecto (ej: ip, puertos, conexión a bases de datos, variables de ambiente, parámetros, etc)
 en este caso haremos las especificaciones de los parametros del programa a traves del codigo, El GRPC se comunica a travez del puerto 50051
 
-## resultados o pantallazos 
 
-Programas corriendo:
+
