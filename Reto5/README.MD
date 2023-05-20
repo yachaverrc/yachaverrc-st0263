@@ -2,10 +2,10 @@
 # ST0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2023-1
 ## Laboratorio 5.1
 
-### Acceso a traves de SSH
-![9](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/8a1d8237-f465-43b0-88b1-685acd743520)
 ### Creacion del Cluster 
 ![1](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/29988f30-3091-40f4-ab62-113635f1f373)
+### Acceso a traves de SSH
+![9](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/8a1d8237-f465-43b0-88b1-685acd743520)
 ### Acceso a Hue
 ![2](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/b38ee28f-4be0-4d06-b97b-4be8e5831451)
 ### Mainpage Database Hue
