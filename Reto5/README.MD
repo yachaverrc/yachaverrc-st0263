@@ -2,6 +2,10 @@
 # ST0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2023-1
 ## Laboratorio 5.1
 
+## Documentación para creación de cluster AWS EMR en Amazon.
+
+Amazon EMR (Elastic MapReduce) es un servicio web que permite a empresas, investigadores, analistas de datos y desarrolladores procesar grandes cantidades de datos de manera rápida y rentable. Con Amazon EMR, puedes crear y gestionar clústeres de Amazon EC2 (Elastic Compute Cloud) que ejecutan aplicaciones de procesamiento de datos como Apache Spark, Apache Hive y Apache Hadoop.
+
 ### Creacion del Cluster 
 ![1](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/29988f30-3091-40f4-ab62-113635f1f373)
 ### Acceso a traves de SSH
