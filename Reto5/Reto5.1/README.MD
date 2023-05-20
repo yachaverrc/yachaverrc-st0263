@@ -2,12 +2,12 @@
 # ST0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2023-1
 ## Laboratorio 5.1
 
-## Documentación para creación de cluster AWS EMR en Amazon.
+## Evidencias de la creación de cluster AWS EMR en Amazon.
 
-Amazon EMR (Elastic MapReduce) es un servicio web que permite a empresas, investigadores, analistas de datos y desarrolladores procesar grandes cantidades de datos de manera rápida y rentable. Con Amazon EMR, puedes crear y gestionar clústeres de Amazon EC2 (Elastic Compute Cloud) que ejecutan aplicaciones de procesamiento de datos como Apache Spark, Apache Hive y Apache Hadoop.
+Amazon EMR (Elastic MapReduce) es un servicio web, el cual permite procesar grandes cantidades de datos de manera rápida. Con Amazon EMR, puedes crear y gestionar clústeres de Amazon EC2 (Elastic Compute Cloud) y utilizar aplicaciones de procesamiento de datos como Apache Spark, Apache Hive y Apache Hadoop.
 
-### Creacion del Cluster 
-Seleccionamos las siguientes aplicaciones para nuestro cluster:
+### Creación del Cluster 
+Seleccionamos las siguientes aplicaciones para nuestro clúster:
 #### HCatalog 3.1.2
 #### Hadoop 3.2.1
 #### Hive 3.1.2
@@ -21,16 +21,16 @@ Seleccionamos las siguientes aplicaciones para nuestro cluster:
 #### Zeppelin 0.9.0
 
 ![1](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/29988f30-3091-40f4-ab62-113635f1f373)
-### Acceso a traves de SSH
+### Acceso a través de SSH
 ![9](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/8a1d8237-f465-43b0-88b1-685acd743520)
-Antes de acceder a las aplicaciones dentro de nuestro cluster, debemos habilitar los puertos en la opcion "bloquear el acceso al publico" y en el grupo de seguridad de la instancia principal.
+Antes de acceder a las aplicaciones dentro de nuestro clúster, debemos habilitar los puertos en la opción "bloquear el acceso al público" y en el grupo de seguridad de la instancia principal.
 
-#### 22, para el ssh.
+#### 22, para el SSH.
 #### 8888, para Hue.
-#### 9443, para el Jupyter.
-#### 8090, para el Zeepelin.
+#### 9443, para Jupyter.
+#### 8090, para Zeppelin.
 
-estas capturas las tomamos como evidencia del seguimiento de los pasos del LAB5.1
+Estas capturas las tomamos como evidencia del seguimiento de los pasos del LAB5.1.
 ### Acceso a Hue
 ![2](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/b38ee28f-4be0-4d06-b97b-4be8e5831451)
 ### Mainpage Database Hue
