@@ -7,9 +7,30 @@
 Amazon EMR (Elastic MapReduce) es un servicio web que permite a empresas, investigadores, analistas de datos y desarrolladores procesar grandes cantidades de datos de manera rápida y rentable. Con Amazon EMR, puedes crear y gestionar clústeres de Amazon EC2 (Elastic Compute Cloud) que ejecutan aplicaciones de procesamiento de datos como Apache Spark, Apache Hive y Apache Hadoop.
 
 ### Creacion del Cluster 
+Seleccionamos las siguientes aplicaciones para nuestro cluster:
+HCatalog 3.1.2
+Hadoop 3.2.1
+Hive 3.1.2
+Hue 4.9.0
+JupyterEnterpriseGateway 2.1.0
+JupyterHub 1.2.0
+Livy 0.7.0
+Spark 3.1.1
+Sqoop 1.4.7
+Tez 0.9.2
+Zeppelin 0.9.0
+
 ![1](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/29988f30-3091-40f4-ab62-113635f1f373)
 ### Acceso a traves de SSH
 ![9](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/8a1d8237-f465-43b0-88b1-685acd743520)
+Antes de acceder a las aplicaciones dentro de nuestro cluster, debemos habilitar los puertos en la opcion "bloquear el acceso al publico" y en el grupo de seguridad de la instancia principal.
+
+22, para el ssh.
+8888, para Hue.
+9443, para el Jupyter.
+8090, para el Zeepelin.
+
+estas capturas las tomamos como evidencia del seguimiento de los pasos del LAB5.1
 ### Acceso a Hue
 ![2](https://github.com/yachaverrc/yachaverrc-st0263/assets/60229713/b38ee28f-4be0-4d06-b97b-4be8e5831451)
 ### Mainpage Database Hue
